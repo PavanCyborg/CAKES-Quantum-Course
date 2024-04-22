@@ -1,0 +1,6 @@
+1. Why Conversion of Bra to Ket & Ket to bra is being performed?
+Ans. 
+In general, the vectors are represented in Ket format only i.e., as column matrix.
+But if we want to perform any operation on that vector i.e, KET we cannot directly multiply another column matrix to a column matrix.
+So the corresponding operation is converted into row matrix from column matrix.
+when we mulitply row matrix with column matrix we get the result. 
