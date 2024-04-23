@@ -21,7 +21,8 @@ Key Characteristics of Unitary Operations:
 	This property is crucial in quantum algorithms, where sequences of unitary gates represent computations.
 	
 	
-what is Hilbert space and why hilbert??
+3. What is Hilbert space and why hilbert??
+Ans.
 Hilbert Space : It is a complex multidimenstional vector space where inner product of any pair
 of elements is defined as extrapolation of a 2D Space to n-Dimensions and Complex coeﬀicients.
 • |0⟩, |1⟩ are considered as the standard basis states also as orthonormal basis states.
@@ -34,3 +35,6 @@ remains very similar.
 • It is just like we are having different kind of space and, standard basis roughly equivalent to
 our i & j vectors on a 2D plane which they represent orthonormal basis states.(They are
 perpendicular to each other).
+
+4. How can we calculate the magnitude of a vector in Quantum Mechanics
+Explanation - https://readingfeynman.org/tag/the-magnitude-of-a-vector-in-quantum-mechanics/
